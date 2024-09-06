@@ -1,2 +1,2 @@
 # testrepo
-testing for course 
+testing for intoduction to Git and GitHub course on coursera. 
